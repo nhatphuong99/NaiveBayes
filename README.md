@@ -1,5 +1,5 @@
 # NaiveBayes
-A simple research about Naive Bayes model in school.
+A simple research about Naive Bayes following Joel Grus Data Science from Scratch.
 
 1753086 - Tống Lê Thiên Phúc
 
